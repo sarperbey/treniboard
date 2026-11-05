@@ -1,0 +1,12 @@
+{
+  "uuid": "treniboard@local",
+  "name": "Treniboard",
+  "description": "Prossime partenze da una stazione italiana (dati ViaggiaTreno), con arrivo all'ultima fermata e cambio stazione dal menu.",
+  "shell-version": [
+    "48",
+    "49",
+    "50",
+    "51"
+  ],
+  "version": 3
+}
